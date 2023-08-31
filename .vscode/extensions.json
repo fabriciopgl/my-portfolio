@@ -1,0 +1,9 @@
+{
+  //Mantive as recomendações pois ajudam no momento que outro dev configurar seu VS Code
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "PKief.material-icon-theme",
+    "rocketseat.theme-omni",
+    "ritwickdey.LiveServer"
+  ]
+}
